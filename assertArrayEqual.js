@@ -19,8 +19,3 @@ const assertArraysEqual = function(actual, expected) {
     }
 };
 
-// Test assertArraysEqual using eqArrays
-assertArraysEqual([1, 2, 3], [1, 2, 3]);  // This should pass
-assertArraysEqual([1, 2, 3], [3, 2, 1]);  // This should fail
-assertArraysEqual(["1", "2", "3"], ["1", "2", "3"]);  // This should pass
-assertArraysEqual(["1", "2", "3"], ["1", "2", 3]);  // This should fail
