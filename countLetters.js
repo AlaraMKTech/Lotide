@@ -12,7 +12,5 @@ const countLetters = function(object) {
     return letterResults;
 };
 
-  // TEST CODE
-  assertEqual("Lighthouse Labs", "Bootcamp");
-  assertEqual(1, 1);
+module.exports = countLetters;
 
