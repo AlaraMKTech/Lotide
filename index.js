@@ -1,4 +1,4 @@
-const assertArrayEqual = require('./assertArrayEqual');
+const assertArraysEqual = require('./assertArrayEqual');
 const assertEqual = require('./assertEqual');
 const assertObjectsEqual = require('./assertObjectsEqual');
 const countLetters = require('./countLetters');
