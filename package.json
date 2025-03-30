@@ -1,8 +1,8 @@
 {
-  "name": "lotide",
+  "name": "@heidimaria/lotide",
   "version": "1.0.0",
-  "description": "",
-  "main": "assertArrayEqual.js",
+  "description": "Clone of Lodash",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/AlaraMKTech/Lotide.git"
   },
-  "author": "",
+  "author": "heidi dodge",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AlaraMKTech/Lotide/issues"
